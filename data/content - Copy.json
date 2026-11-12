@@ -1,0 +1,63 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "title": "النشيد الوطني - قسماً",
+      "artist": "مفدي زكرياء",
+      "audioUrl": "./assets/audio/national-anthem.mp3",
+      "description": "النشيد الوطني الرسمي للجمهورية الجزائرية الديمقراطية الشعبية."
+    },
+	{
+      "id": 2,
+      "title": "النشيد الوطني - قسماً - المقطع الأول",
+      "artist": "مفدي زكرياء",
+      "audioUrl": "./assets/audio/national-anthem-1.mp3",
+      "description": "النشيد الوطني الرسمي للجمهورية الجزائرية الديمقراطية الشعبية. المقط الأول"
+    },
+    {
+      "id": 3,
+      "title": "من جبالنا",
+      "artist": "محمد الشبوكي",
+      "audioUrl": "./assets/audio/min_jibalina.wav",
+      "description": "من أشهر الأناشيد الثورية التي رددها المجاهدون في الجبال أثناء الثورة التحريرية."
+    },
+    {
+      "id": 4,
+      "title": "شعب الجزائر مسلم",
+      "artist": "عبد الحميد بن باديس",
+      "audioUrl": "./assets/audio/chaabo-algazairi-muslim.mp3",
+      "description": "نشيد يعبر عن تمسك الشعب الجزائري بهويته وعقيدته الإسلامية الأصيلة."
+    },
+    {
+      "id": 5,
+      "title": "جزائرنا",
+      "artist": "محمد الأخضر السائحي",
+      "audioUrl": "./assets/audio/jazairana.mp3",
+      "description": "قصيدة وطنية مغناة تتغنى بجمال الجزائر وبطولات شعبها."
+    },
+    {
+      "id": 6,
+      "title": "أيا شباب",
+      "artist": "أناشيد وطنية",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Kassaman.ogg",
+      "description": "نشيد حماسي يحث الشباب على النهوض والدفاع عن حرية الوطن وكرامته."
+    }
+	,
+    {
+      "id": 7,
+      "title": "موطني",
+      "artist": "أناشيد وطنية",
+      "audioUrl": "./assets/audio/mawtini.mp3",
+      "description": "نشيد حماسي يحث الشباب على النهوض والدفاع عن حرية الوطن وكرامته."
+    }
+	,
+    {
+      "id": 7,
+      "title": "نحن طلاب الجزائر",
+      "artist": "أناشيد وطنية",
+      "audioUrl": "./assets/audio/tolab-aljazir.wav",
+      "description": "نشيد حماسي يحث الشباب على النهوض والدفاع عن حرية الوطن وكرامته."
+    }
+	
+  ]
+}
